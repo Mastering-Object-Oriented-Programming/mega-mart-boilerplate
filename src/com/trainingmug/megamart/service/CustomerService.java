@@ -7,9 +7,7 @@ public interface CustomerService {
 
     /*
     Declare the methods
-    buyProduct(Product)
-    displayCustomerDetails(Customer)
+    public void buyProduct(Product product) 
+    public void displayCustomerDetails(Customer)
      */
-    public void buyProduct(Product product);
-    public void displayCustomerDetails(Customer customer);
 }

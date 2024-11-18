@@ -5,17 +5,19 @@ public class Menu {
 
 
     /*
+    Create a method displayHeader()
+    Task to be executed:
     This method is to display the header of Mega Mart
     should look like this
     --------------------------------------------------
                 WELCOME TO MEGA-MART
     --------------------------------------------------
      */
-    public static void displayHeader(){
-
-    }
+    
 
     /*
+    Create a method displayMainMenu()
+    Task to be executed:
     This method is to display the main menu of Mega Mart
     should look like this
     --------------------------------------------------
@@ -32,10 +34,6 @@ public class Menu {
     Please Enter Your Input (1-6):
      */
 
-    public static void displayMainMenu(){
-        
-
-    }
 
 
 

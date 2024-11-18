@@ -21,7 +21,7 @@ public class Customer {
 
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(id, name, email, contactNo)
      */
 
     /*

@@ -18,7 +18,7 @@ public class Product {
 
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(id, name, price)
     */
 
 

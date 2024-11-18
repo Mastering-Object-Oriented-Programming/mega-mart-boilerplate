@@ -15,7 +15,7 @@ public class RegularCustomer extends Customer{
     */
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(discountPercentage)
      */
 
     /*

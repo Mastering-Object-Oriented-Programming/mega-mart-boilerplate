@@ -6,11 +6,9 @@ public interface ProductService {
 
     /*
     Declare the methods
-    displayProductDetails(Product)
-    displayAllProducts()
+    public void displayProductDetails(Product product)
+    public void displayAllProducts()
      */
-    public void displayProductDetails(Product product);
 
-    public void displayAllProducts();
 
 }

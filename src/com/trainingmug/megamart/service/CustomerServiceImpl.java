@@ -18,24 +18,18 @@ public class CustomerServiceImpl implements CustomerService{
      */
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(productService)
      */
 
 
 
-    //Override the buyProduct methods of Interface-CustomerService
-    @Override
-    public void buyProduct(Product product) {
+    //Override the "buyProduct(Product product)" method of Interface-CustomerService
+    //Tasks to be executed:
         //print "Successfully purchased the product"
         //call displayProductDetails(product) from productService
-
-    }
-    //Override the displayCustomerDetails method of Interface-CustomerService
-    @Override
-    public void displayCustomerDetails(Customer customer) {
+    
+    //Override the displayCustomerDetails(Customer customer) method of Interface-CustomerService
+    //Tasks to be executed:
         //call displayDetails from customer
-
-    }
-
 
 }

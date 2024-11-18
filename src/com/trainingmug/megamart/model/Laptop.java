@@ -19,12 +19,12 @@ public class Laptop extends Product{
 
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(ramSize, operatingSystem)
     */
 
 
     /*
-    create the setter and getter functions for the properties
+    create the setter and getter methods for
     */
 
 

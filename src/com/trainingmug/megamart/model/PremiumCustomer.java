@@ -7,7 +7,7 @@ public class PremiumCustomer extends Customer{
     --------------------------------------------------------------
     Access Modifier           Data Type             variable
     --------------------------------------------------------------
-    private                     String              membership
+    private                     String              memberShip
     */
 
 
@@ -16,12 +16,12 @@ public class PremiumCustomer extends Customer{
      */
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters(memberShip)
      */
 
 
     /*
-    create the getter and setter functions
+    create the getter and setter methods
     */
 
 

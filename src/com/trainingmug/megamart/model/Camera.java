@@ -18,12 +18,12 @@ public class Camera extends Product{
 
 
     /*
-    create an argument constructor
+    create an argument constructor of parameters (cameaMegapixels, isMirrorless)
     */
 
 
     /*
-    create the getter and setter functions
+    create the getter and setter methods
     */
 
 
